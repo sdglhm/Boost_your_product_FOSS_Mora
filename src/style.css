@@ -1,0 +1,23 @@
+.footnote{
+    font-size: .7em;
+    color: gray;
+
+}
+
+.red{
+    color: red;
+    font-size: .6em;
+    vertical-align: super;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.img-responsive{
+    width: 100%
+}
+
+li{
+    font-size: larger;
+}
